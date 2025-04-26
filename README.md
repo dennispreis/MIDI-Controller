@@ -44,3 +44,9 @@ int CC = 176; // Change 176 to another Control Change status byte if needed
 ## Notes
 
 Ensure that your Digital Audio Workstation (DAW) is configured to accept external MIDI controller input for proper functionality. Additionally, the design is modular and can be easily expanded by adding more multiplexers, allowing you to incorporate additional controls as needed.Ensure that your Digital Audio Workstation (DAW) is configured to accept external MIDI controller input for proper functionality. Additionally, the design is modular and can be easily expanded by adding more multiplexers, allowing you to incorporate additional controls as needed.
+
+## The device
+
+![The innerdevice](openFrame.jpg)
+
+![](closedFrame.jpg)
